@@ -1,13 +1,13 @@
 <servers>
 <server name="⚠️ KLIK INFORMASI ⚠️" ca="0" continent_code="XF" country="bst" country_code="ID" ip="47.254.195.240" port="64738" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
-<server name="🔐 Keluar Klik Garis Tiga ⚠️" ca="0" continent_code="XF" country="bst" country_code="ID" ip="79." port="50" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
-<server name="✴️ CHANNAL 1 ✴️" ca="0" continent_code="XF" country="bst" country_code="ID" ip="mumble-de.cleanvoice.com" port="38979" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
-<server name="✴️ CHANNAL 2 ✴️" ca="0" continent_code="XF" country="bst" country_code="ID" ip="mumble-us.cleanvoice.com" port="33769" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
-<server name="✴️ CHANNAL 3 ✴️" ca="0" continent_code="XF" country="bst" country_code="ID" ip="mumble-us.cleanvoice.com" port="33836" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
-<server name="✴️ CHANNAL 4 ✴️" ca="0" continent_code="XF" country="bst" country_code="ID" ip="mumble-de.cleanvoice.com" port="38407" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
-<server name="✴️ CHANNAL 5 ✴️" ca="0" continent_code="XF" country="bst" country_code="ID" ip="mumble-de.cleanvoice.com" port="38408" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
-<server name="✴️ CHANNAL 6 ✴️" ca="0" continent_code="XF" country="bst" country_code="ID" ip="mumble-us2.cleanvoice.com" port="56374" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
-<server name="✴️ CHANNAL 7 ✴️" ca="0" continent_code="XF" country="bst" country_code="ID" ip="mumble-us2.cleanvoice.com" port="56373" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
-<server name="✴️ CHANNAL 8 ✴️" ca="0" continent_code="XF" country="bst" country_code="ID" ip="mumble-us2.cleanvoice.com" port="56372" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
-<server name="✴️ CHANNAL 9 ✴️" ca="0" continent_code="XF" country="bst" country_code="ID" ip="mumble-us2.cleanvoice.com" port="56371" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
+<server name="✴️ CHANNAL 00 ✴️" ca="0" continent_code="XF" country="bst" country_code="ID" ip="79." port="50" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
+<server name="✴️ CHANNAL 01 ✴️" ca="0" continent_code="XF" country="bst" country_code="ID" ip="mumble-de.cleanvoice.com" port="38979" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
+<server name="✴️ CHANNAL 02 ✴️" ca="0" continent_code="XF" country="bst" country_code="ID" ip="mumble-us.cleanvoice.com" port="33769" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
+<server name="✴️ CHANNAL 03 ✴️" ca="0" continent_code="XF" country="bst" country_code="ID" ip="mumble-us.cleanvoice.com" port="33836" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
+<server name="✴️ CHANNAL 04 ✴️" ca="0" continent_code="XF" country="bst" country_code="ID" ip="mumble-de.cleanvoice.com" port="38407" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
+<server name="✴️ CHANNAL 05 ✴️" ca="0" continent_code="XF" country="bst" country_code="ID" ip="mumble-de.cleanvoice.com" port="38408" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
+<server name="✴️ CHANNAL 06 ✴️" ca="0" continent_code="XF" country="bst" country_code="ID" ip="mumble-us2.cleanvoice.com" port="56374" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
+<server name="✴️ CHANNAL 07 ✴️" ca="0" continent_code="XF" country="bst" country_code="ID" ip="mumble-us2.cleanvoice.com" port="56373" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
+<server name="✴️ CHANNAL 08 ✴️" ca="0" continent_code="XF" country="bst" country_code="ID" ip="mumble-us2.cleanvoice.com" port="56372" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
+<server name="✴️ CHANNAL 99 ✴️" ca="0" continent_code="XF" country="bst" country_code="ID" ip="mumble-us2.cleanvoice.com" port="56371" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
 </servers>
